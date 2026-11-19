@@ -1,0 +1,22 @@
+HTML LAB — mini éditeur HTML mobile
+
+FONCTIONS
+- Colle le code HTML généré par une IA puis touche « Exécuter ».
+- Ouvre un fichier .html existant et exporte ton travail.
+- Le code est sauvegardé automatiquement dans le stockage local du navigateur.
+- L'application est mise en cache et reste utilisable hors ligne après sa première visite.
+- L'aperçu autorise JavaScript, formulaires, fenêtres modales et popups, dans une iframe isolée.
+
+INSTALLATION SUR ANDROID
+Cette version est une PWA (application web installable), pas un APK natif.
+Pour l'ajouter à l'écran d'accueil, les fichiers doivent être servis depuis une adresse HTTPS. Ouvre cette adresse dans Chrome, puis menu ⋮ > « Installer l'application » ou « Ajouter à l'écran d'accueil ».
+Un fichier ouvert directement depuis le téléphone n'offre pas l'installation complète hors ligne avec service worker. Il faut d'abord publier le dossier sur un hébergement HTTPS. Le ZIP contient tous les fichiers source nécessaires.
+
+UTILISATION
+1. Dans Chrome, ouvre l'application et choisis Installer/Ajouter à l'écran d'accueil.
+2. Ouvre HTML Lab.
+3. Colle le HTML (bouton Coller ou appui long dans l'éditeur).
+4. Touche Exécuter.
+5. Enregistre automatiquement ou exporte le fichier .html.
+
+Confidentialité : aucun compte, aucun serveur applicatif et aucune transmission du code. Le code reste dans le stockage local du navigateur sur le téléphone. Effacer les données du navigateur peut supprimer les brouillons.
